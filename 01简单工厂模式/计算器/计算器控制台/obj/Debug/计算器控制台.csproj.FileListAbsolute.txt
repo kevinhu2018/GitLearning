@@ -1,0 +1,9 @@
+E:\Learning\GitPro\GitLearning\01简单工厂模式\计算器\计算器控制台\bin\Debug\计算器控制台.exe
+E:\Learning\GitPro\GitLearning\01简单工厂模式\计算器\计算器控制台\bin\Debug\计算器控制台.pdb
+E:\Learning\GitPro\GitLearning\01简单工厂模式\计算器\计算器控制台\bin\Debug\OperationLibrary.dll
+E:\Learning\GitPro\GitLearning\01简单工厂模式\计算器\计算器控制台\bin\Debug\OperationLibrary.pdb
+E:\Learning\GitPro\GitLearning\01简单工厂模式\计算器\计算器控制台\obj\Debug\计算器控制台.csprojAssemblyReference.cache
+E:\Learning\GitPro\GitLearning\01简单工厂模式\计算器\计算器控制台\obj\Debug\计算器控制台.csproj.CoreCompileInputs.cache
+E:\Learning\GitPro\GitLearning\01简单工厂模式\计算器\计算器控制台\obj\Debug\计算器控制台.csproj.CopyComplete
+E:\Learning\GitPro\GitLearning\01简单工厂模式\计算器\计算器控制台\obj\Debug\计算器控制台.exe
+E:\Learning\GitPro\GitLearning\01简单工厂模式\计算器\计算器控制台\obj\Debug\计算器控制台.pdb
